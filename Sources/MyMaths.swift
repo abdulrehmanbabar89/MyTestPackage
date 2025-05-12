@@ -10,7 +10,7 @@ class MyMaths {
     init() {
         
     }
-    func sum(a: Int, b: Int) -> Int {
+    public func sum(a: Int, b: Int) -> Int {
         return a + b
     }
 }
